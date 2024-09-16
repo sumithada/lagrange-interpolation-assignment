@@ -13,7 +13,8 @@
 3.Create the JavaScript File: Save the provided JavaScript code into a file named app.js in this directory.
 
 4.Run the Script:
-node app.js
+ ```bash
+ node app.js
 
 The script will execute and print the result to the terminal.
 
