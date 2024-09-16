@@ -7,7 +7,8 @@
    git clone https://github.com/sumithada/lagrange-interpolation.git
    
 2. Navigate to the Directory:
-cd lagrange-interpolation
+   ```bash
+   cd lagrange-interpolation
 
 3.Create the JavaScript File: Save the provided JavaScript code into a file named app.js in this directory.
 
