@@ -4,7 +4,7 @@
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/lagrange-interpolation.git
+   git clone https://github.com/sumithada/lagrange-interpolation.git
    
 2. Navigate to the Directory:
 cd lagrange-interpolation
